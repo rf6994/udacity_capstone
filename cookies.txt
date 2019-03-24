@@ -1,0 +1,16 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.kaggle.com/c/web-traffic-time-series-forecasting/data"
+#   2) curl --cookie cookies.txt "https://www.kaggle.com/c/web-traffic-time-series-forecasting/data"
+#   3) aria2c --load-cookies cookies.txt "https://www.kaggle.com/c/web-traffic-time-series-forecasting/data"
+#
+kaggle.com	FALSE	/	FALSE	0	GCLB	CNHEs5GForCGngE
+www.kaggle.com	FALSE	/	TRUE	0	CSRF-TOKEN	CfDJ8LdUzqlsSWBPr4Ce3rb9VL-LHPKRv43EaMv2W5ILoB-HWeH44q3vpO_Mibh-ptoCsyPCExzCbSWqmgmhjyd8rFm3BkWIbWQvBtE0CulO0Kz5Uh_wIaHCbgAONQR6BL5hjesjRqIRHBn8wWftAwT2nC4
+www.kaggle.com	FALSE	/	FALSE	0	GCLB	CKCSm5OU6sfqCw
+.kaggle.com	TRUE	/	FALSE	1576780261	intercom-id-koj6gxx6	d03aab0b-8dd7-4d59-91f2-6b680a1d48f0
+www.kaggle.com	FALSE	/	FALSE	1569209621	ka_sessionid	a0da4ea09a3a73a73a975e3917ae3ef79c27ef69
+www.kaggle.com	FALSE	/	TRUE	1556042268	.ASPXAUTH	82BA661A5A418986D7E9295A7DA02AC7AF255B4C0BB1122D752D27A48AF21128586825D4CC3C5E726A32F851244446FB574CC9086BD2DB24CF818695C826E5674D65CA813B030F505757B091AC3A7FB2C49BF238
+www.kaggle.com	FALSE	/	FALSE	0	XSRF-TOKEN	CfDJ8LdUzqlsSWBPr4Ce3rb9VL9c4IqCdPhK-8MRgd9EIUfkuhRpBoAAIJGCC3b4PCC-ZyLGKGEgaf5xF4onfjopC0yDvNZCOpzZKMP70dny3yYNLbMmR1lYdYQuVXepF4ULKCL1NJIlHdlb3B1tlRLd3Kf9zhPjCqlbBdeoIMuyqMib8FG1B3PUV149ftOwf0zeZQ
+.kaggle.com	TRUE	/	FALSE	1554060333	intercom-session-koj6gxx6	UkZGQnBpU1grdlVSQnRWeS8yNkdIdGpwaUEvb0E1WkVmU2pYQWtsSHdLazBkNlBrQkt2QlJRdkdhdVBYRjEvUC0tQUxQYUhLVGFNWERsRk1EbEpkZmtCdz09--88fbe9942f0f248b44093a9bdc0c879fe890c52e
+www.kaggle.com	FALSE	/	FALSE	0	.AspNetCore.Mvc.CookieTempDataProvider	CfDJ8LdUzqlsSWBPr4Ce3rb9VL_b0pRbUSIxSlOXiwd7U53bRPV0G-shk9TCm7AouOEre6x4ebRhdiGs6PlgMIXiWDa3aONrk8EJXkOYvXxBzx3tTrLE_QtjDVX8WIYq4oIPhJFTu4ktbok53b7LY51alCY
