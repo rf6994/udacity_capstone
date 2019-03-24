@@ -1,3 +1,4 @@
+https://www.kaggle.com/c/web-traffic-time-series-forecasting/download/train_1.csv
 # HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
 # This file can be used by wget, curl, aria2c and other standard compliant tools.
 # Usage Examples:
